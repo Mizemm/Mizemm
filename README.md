@@ -38,6 +38,6 @@ A complete system infrastructure using Docker.
 
 ---
 
-* **LinkedIn:** [[linkedin.com/in/yourusername](https://www.linkedin.com/in/moe-amine-izem-199044266)
+* **LinkedIn:** [https://linkedin.com/in/yourusername](https://www.linkedin.com/in/moe-amine-izem-199044266]
 * **Email:** [amineshady6@gmail.com]
 * **Location:** [Martil], Morocco 🇲🇦
