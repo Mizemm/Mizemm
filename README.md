@@ -18,7 +18,7 @@ My journey at 1337 has taught me how to solve complex problems, learn new tech q
 #### [ft_transcendence]([LINK_TO_REPO](https://github.com/Mizemm/ft_transcendence.git))
 A real-time multiplayer Soccer game website.
 * **Tech:** NestJS, React, Socket.io, Typescript/Javascript, Express.
-* **What I did:** I engineered the core real-time infrastructure of the platform, focusing on high-performance game synchronization and secure networking. I developed an authoritative game engine using Socket.io and TypeScript, ensuring physics calculations and game states are handled server-side to prevent client-side manipulation. Beyond the engine, I designed a custom pixel-art visual identity, implementing dynamic camera scaling and responsive UI layouts for seamless cross-device play.
+* **What I did:** I engineered the core real-time infrastructure of the platform, focusing on high-performance game synchronization and secure networking. I developed an authoritative game engine using Socket.io and TypeScript, ensuring physics calculations and game states are handled server-side to prevent client-side manipulation. Beyond the engine, I designed a custom pixel-art visual identity, implementing responsive UI layouts for seamless cross-device play.
 
 
 #### [Minishell]([LINK_TO_REPO](https://github.com/Mizemm/minishell.git)) (Unix Logic)
@@ -40,6 +40,6 @@ A complete system infrastructure using Docker.
 
 ---
 
-* **LinkedIn:** [https://linkedin.com/in/yourusername](https://www.linkedin.com/in/moe-amine-izem-199044266)
+* **LinkedIn:** [https://www.linkedin.com/in/moe-amine-izem-199044266]
 * **Email:** [amineshady6@gmail.com]
 * **Location:** [Martil], Morocco 🇲🇦
