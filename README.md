@@ -50,7 +50,3 @@ A complete system infrastructure using Docker.
 - **LinkedIn**: [linkedin.com/in/moe-amine-izem-199044266](https://www.linkedin.com/in/moe-amine-izem-199044266)  
 - **Email**: amineshady6@gmail.com  
 - **Location**: Tetouan, Morocco 
-
----
-
-*Made with ❤️ at 1337 Coding School*
