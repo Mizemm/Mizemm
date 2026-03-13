@@ -15,25 +15,25 @@ My journey at 1337 has taught me how to solve complex problems, learn new tech q
 ---
 
 ### 🚀 Key Projects
-#### [ft_transcendence]([LINK_TO_REPO](https://github.com/Mizemm/ft_transcendence.git))
+#### [ft_transcendence]
 A real-time multiplayer Soccer game website.
 * **Tech:** NestJS, React, Socket.io, Typescript/Javascript, Express.
 * **What I did:** I engineered the core real-time infrastructure of the platform, focusing on high-performance game synchronization and secure networking. I developed an authoritative game engine using Socket.io and TypeScript, ensuring physics calculations and game states are handled server-side to prevent client-side manipulation. Beyond the engine, I designed a custom pixel-art visual identity, implementing responsive UI layouts for seamless cross-device play.
 
 
-#### [Minishell]([LINK_TO_REPO](https://github.com/Mizemm/minishell.git)) (Unix Logic)
+#### [Minishell] (Unix Logic)
 A custom bash-like shell written in C.
 * **Focus:** Process management, parsing, and system calls.
 * **What it proves:** Deep understanding of how an Operating System works.
 
 
-#### [Philosophers]([LINK_TO_REPO](https://github.com/Mizemm/philosophers.git)) (Concurrency)
+#### [Philosophers] (Concurrency)
 A solution to the classic "Dining Philosophers" problem using **Threads** and **Mutexes**.
 * **Focus:** Preventing deadlocks and data races in a multi-threaded environment.
 * **What it proves:** Mastery of resource management and threading in C.
 
   
-#### [Inception]([LINK_TO_REPO](https://github.com/Mizemm/Inception)) (DevOps/Infrastructure)
+#### [Inception] (DevOps/Infrastructure)
 A complete system infrastructure using Docker.
 * **Focus:** Orchestrating multiple services (Nginx, MariaDB, WordPress) from scratch.
 * **What it proves:** I can set up and manage professional deployment environments.
