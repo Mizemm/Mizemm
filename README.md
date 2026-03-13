@@ -1,45 +1,56 @@
 # Hi, I'm Mohammed Amine Izem
+
 ### Software Engineering Student @1337 (42 Network)
 
-I’m a developer from Morocco focused on building functional, high-performance applications.
-My journey at 1337 has taught me how to solve complex problems, learn new tech quickly, written with a clean code.
+I'm a developer from Morocco focused on building functional, high-performance applications.  
+My journey at 1337 has taught me how to solve complex problems and write clean, maintainable code.
 
 ---
 
 ### 💻 My Tech Stack
-* **Languages:** C, C++, TypeScript, JavaScript
-* **Backend:** Node.js, NestJS, Express
-* **Frontend:** React, Next.js, Tailwind CSS
-* **DevOps:** Docker, Nginx, Linux/Shell
+
+- **Languages**: C, C++, TypeScript, JavaScript  
+- **Backend**: Node.js, NestJS, Express  
+- **Frontend**: React, Next.js, Tailwind CSS  
+- **DevOps**: Docker, Nginx, Linux/Shell  
 
 ---
 
 ### 🚀 Key Projects
-#### [ft_transcendence]
+
+#### [ft_transcendence](https://github.com/Mizemm/ft_transcendence)
 A real-time multiplayer Soccer game website.
-* **Tech:** NestJS, React, Socket.io, Typescript/Javascript, Express.
-* **What I did:** I engineered the core real-time infrastructure of the platform, focusing on high-performance game synchronization and secure networking. I developed an authoritative game engine using Socket.io and TypeScript, ensuring physics calculations and game states are handled server-side to prevent client-side manipulation. Beyond the engine, I designed a custom pixel-art visual identity, implementing responsive UI layouts for seamless cross-device play.
+
+- **Tech**: NestJS, React, Socket.io, TypeScript, Express  
+- **What I did**: Engineered the core real-time infrastructure with an authoritative server-side game engine (physics, collisions, state sync). Designed custom pixel-art visuals and responsive UI for seamless cross-device play.
 
 
-#### [Minishell] (Unix Logic)
+#### [Minishell](https://github.com/Mizemm/minishell)
 A custom bash-like shell written in C.
-* **Focus:** Process management, parsing, and system calls.
-* **What it proves:** Deep understanding of how an Operating System works.
 
+- **Focus**: Process management, parsing, pipes, and system calls.  
+- **What it proves**: Deep understanding of how operating systems work.
 
-#### [Philosophers] (Concurrency)
-A solution to the classic "Dining Philosophers" problem using **Threads** and **Mutexes**.
-* **Focus:** Preventing deadlocks and data races in a multi-threaded environment.
-* **What it proves:** Mastery of resource management and threading in C.
+#### [Philosophers](https://github.com/Mizemm/philosophers)
+Solution to the classic "Dining Philosophers" problem using threads and mutexes.
 
-  
-#### [Inception] (DevOps/Infrastructure)
+- **Focus**: Preventing deadlocks and data races.  
+- **What it proves**: Mastery of concurrency and resource management in C.
+
+#### [Inception](https://github.com/Mizemm/Inception)
 A complete system infrastructure using Docker.
-* **Focus:** Orchestrating multiple services (Nginx, MariaDB, WordPress) from scratch.
-* **What it proves:** I can set up and manage professional deployment environments.
+
+- **Focus**: Orchestrating multiple services (Nginx, MariaDB, WordPress).  
+- **What it proves**: Ability to set up and manage professional deployment environments.
 
 ---
 
-* **LinkedIn:** [https://www.linkedin.com/in/moe-amine-izem-199044266]
-* **Email:** [amineshady6@gmail.com]
-* **Location:** Tetouan, Morocco
+### Connect With Me
+
+- **LinkedIn**: [linkedin.com/in/moe-amine-izem-199044266](https://www.linkedin.com/in/moe-amine-izem-199044266)  
+- **Email**: amineshady6@gmail.com  
+- **Location**: Tetouan, Morocco 
+
+---
+
+*Made with ❤️ at 1337 Coding School*
