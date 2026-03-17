@@ -42,7 +42,7 @@ A complete system infrastructure using Docker.
 
 ### Connect With Me
 
-- **LinkedIn**: [linkedin.com/in/moe-amine-izem-199044266](https://www.linkedin.com/in/moe-amine-izem-199044266)  
+- **LinkedIn**: [Visit Now 🚀](https://www.linkedin.com/in/moe-amine-izem-199044266)  
 - **Email**: amineshady6@gmail.com  
-- **Portfolio**: [link](https://mizemm.github.io/)
+- **Portfolio**: [Visit Now 🚀](https://mizemm.github.io/)
 - **Location**: Tetouan, Morocco 
