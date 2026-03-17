@@ -31,11 +31,6 @@ A custom bash-like shell written in C.
 - **Focus**: Process management, parsing, pipes, and system calls.  
 - **What it proves**: Deep understanding of how operating systems work.
 
-#### [Philosophers](https://github.com/Mizemm/philosophers)
-Solution to the classic "Dining Philosophers" problem using threads and mutexes.
-
-- **Focus**: Preventing deadlocks and data races.  
-- **What it proves**: Mastery of concurrency and resource management in C.
 
 #### [Inception](https://github.com/Mizemm/Inception)
 A complete system infrastructure using Docker.
