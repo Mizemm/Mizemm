@@ -1,5 +1,4 @@
 # Hi, I'm Mohammed Amine Izem
-### [PORTFOLIO](https://mizemm.github.io/)
 
 
 
@@ -7,6 +6,7 @@
 
 I'm a developer from Morocco focused on building functional, high-performance applications.  
 My journey at 1337 has taught me how to solve complex problems and write clean, maintainable code.
+Check my ### [PORTFOLIO](https://mizemm.github.io/)
 
 ---
 
