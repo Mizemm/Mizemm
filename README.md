@@ -7,7 +7,6 @@
 I'm a developer from Morocco focused on building functional, high-performance applications.  
 My journey at 1337 has taught me how to solve complex problems and write clean, maintainable code.
 
-### [Portfolio](https://mizemm.github.io/)
 
 ---
 
@@ -46,6 +45,7 @@ A complete system infrastructure using Docker.
 
 ### Connect With Me
 
+- **Portfolio**: [Visit Now 🚀](https://mizemm.github.io/)
 - **LinkedIn**: [Visit Now 🚀](https://www.linkedin.com/in/moe-amine-izem-199044266)  
 - **Portfolio**: [Visit Now 🚀](https://mizemm.github.io/)
 - **Email**: amineshady6@gmail.com 
